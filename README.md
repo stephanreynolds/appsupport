@@ -15,5 +15,13 @@ Read uncensored reviews from real users. Report your own frustrations by leaving
 ## Report issues or Delete data
 AppSupports exposes the contact details of apps so you can get in touch with them - to report any issues or problems you encounter, to delete your data or account and to cancel subscriptions.
 
-
-
+### App Support Platform Features
+* App Details
+* App Pros & Cons
+* App Legitimacy Score
+* App Safety Score
+* App Positive Reviews
+* App Negative Reviews
+* App Cancellation and Delete Guide
+* App Contact & Feedback Form
+* App Alternatives
