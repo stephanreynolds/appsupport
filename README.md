@@ -1,5 +1,5 @@
 # App Support Platform
-Get unbiased reviews, NLP legitimacy &amp; safety analysis, and user recommendations for business &amp; personal software. [Appsupports.co](https://appsupports.co/) discover the truth about apps and helps you stay safe on the Internet. Make the best-informed decisions about apps you use. Your apps, your rules!
+Get unbiased reviews, NLP legitimacy &amp; safety analysis, and user recommendations for business &amp; personal software. [Appsupports.co](https://appsupports.co/) discover the truth about apps and helps you stay safe on the Internet. Make the best-informed decisions about apps you use. **Your apps, your rules!**
 
 ![App Support Platform](https://cdn.appsupports.co/images/app-supports.jpg)
 
